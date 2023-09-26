@@ -1,0 +1,17 @@
+/*
+Basándose en la tabla artículos, obtener los siguientes listados.
+1- articulos con precio mayor a 1000
+2- articulos con precio entre 2000 y 4000 (usar < y >)
+3- articulos con precio entre 400 y 6000 (usar between)
+4- articulos con precio = 2000 y stock mayor a 300
+5- articulos con precio (1200,2000,3000) no usar in
+6- articulos con precio (1200,2000,3000) usar in
+7- articulos que su precio no sea (1200,2000,3000)
+8- listar los articulos ordenados por precio de mayor a menor, y si hubiera
+precios iguales deben quedar ordenados por nombre
+9- listar todos los articulos incluyendo una columna denominada "precio con IVA", 
+la cual deberá tener el monto con el iva del producto
+10- listar todos los articulos incluyendo una columna denominada "cantidad de 
+cuotas" y otra "valor de cuota", la cantidad es fija y es 3, el valor de cuota
+corresponde a 1/3 del monto con un 5% de interés
+*/
