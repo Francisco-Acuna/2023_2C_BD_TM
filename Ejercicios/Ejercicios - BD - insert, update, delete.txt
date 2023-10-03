@@ -1,0 +1,21 @@
+-- Basándose en la tabla clientes realizar los siguientes puntos.
+
+-- 1- 	Insertar 5 clientes en la tabla clientes dejando que el motor de la BD complete su código
+-- 2-	Insertar 5 clientes en la tabla clientes utilizando los campos como parte de la sentencias,
+-- es decir de la forma extendida. Completando todos los campos
+-- 3-	Actualizar el nombre del cliente 1 a Jose.
+-- 4-	Actualizar el nombre apellido y dni del cliente 3 a Pablo Fuentes 21053119
+-- 5-  Actualizar la dirección del cliente de código 2 a vacío
+-- 6-	Actualizar las direcciones de los clientes de código 3, 5 y 7 a 'null'
+-- 7-	Eliminar los clientes con apellido Perez.
+-- 8-	Eliminar los clientes con dni que terminan en 0.
+-- 9-  Eliminar los clientes cuyo nombre contenga una r y su apellido termine en z
+
+-- Basando se en la tabla artículos, realizar los siguientes puntos.
+-- 	10- Aumentar un 20% los precios de los artículos con precio menor igual a 50.
+-- 	11- Aumentar un 15% los precios de los artículos con precio mayor a 50.
+-- 	12- Bajar un 5% los precios de los artículos con precio mayor a 200.
+-- 13- bajar el %50 del precio a los artículos que estén entre 20000 y 40000
+-- 13- aumentar el stock a 200 a todos aquellos productos que tengan el stock mayor a 0 y hasta 150
+-- 	14- Eliminar los artículos con stock menor a 0.
+-- 15- eliminar todos los artículos cuyo precio sea mayor a $50.000
