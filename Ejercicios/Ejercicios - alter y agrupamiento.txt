@@ -1,0 +1,49 @@
+--  ----------------
+-- 	EJERCICIOS
+--  ----------------
+
+-- +++++++++++++++++++++
+--   PRIMERA PARTE   --
+-- +++++++++++++++++++++
+
+-- Basándose en la tabla articulos, realizar los siguientes puntos:
+-- 1) Agregar a la tabla articulos, los campos stockMinimo y stockMaximo.
+-- 2) Completar en los registros los valores de los campos stockMinimo y stockMaximo
+-- 	teniendo en cuenta que el stock mínimo debe ser menor que el stock máximo.
+-- 3) Listar los articulos que se deben reponer y qué cantidad se debe reponer de cada artículo.
+--	Tener en cuenta que se debe reponer cuando el stock es menor al stockMinimo y la cantidad
+--	de articulos a reponer es stockMaximo - stock.
+-- 4) Calcular el valor de venta de toda la mercaderia que hay en stock.
+-- 5) Calcular el valor de venta + IVA de toda la mercaderia que hay en stock.
+
+
+-- +++++++++++++++++++++
+--   SEGUNDA PARTE   --
+-- +++++++++++++++++++++
+
+-- 1. Crear la tabla 'autos' dentro de la base de datos 'intro' con el siguiente detalle:
+
+-- 	codigo	INTEGER y PK
+-- 	marca	VARCHAR(255)
+-- 	modelo	VARCHAR(255)
+-- 	color	VARCHAR(255)
+-- 	anio	INTEGER
+-- 	precio	DOUBLE
+
+-- 2. Cargar la tabla con 15 autos
+-- 3. Realizar las siguientes consultas:
+-- 	a. obtener el precio máximo.
+-- 	b. obtener el precio mínimo.
+-- 	c. obtener el precio mínimo entre los años 2010 y 2020.
+-- 	d. obtener el precio promedio.
+-- 	e. obtener el precio promedio del año 2023.
+-- 	f. obtener la cantidad de autos.
+-- 	g. obtener la cantidad de autos que tienen un precio entre $3.500.000 y $4.000.000
+-- 	h. obtener la cantidad de autos que hay en cada año.
+-- 	i. obtener la cantidad de autos y el precio promedio en cada año.
+-- 	j. obtener la suma de precios y el promedio de precios según marca.
+--  	k. informar los autos con el menor precio.
+--  	l. informar los autos con el menor precio entre los años 2014 y 2023
+--  	m. listar los autos ordenados ascendentemente por marca,modelo, y el año en forma descendente.
+--  	n. contar cuantos autos hay de cada marca.
+--  	o. borrar los autos del siglo pasado.
