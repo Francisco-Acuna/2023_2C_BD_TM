@@ -47,7 +47,7 @@ insert into libros values(42,'Martin Fierro','Jose Hernandez');
 insert into libros values(44,'Aprenda java','Mario Dominguez');
 
 insert into prestamos values('22333444',1,'2006-08-10','2006-08-12');
-insert into prestamos values('22333444',1,'2006-08-15',null);
+insert into prestamos values('22333444',44,'2006-08-15',null);
 insert into prestamos values('25333444',25,'2006-08-10','2006-08-13');
 insert into prestamos values('25333444',42,'2006-08-10',null);
 insert into prestamos values('25335444',25,'2006-08-15',null);
