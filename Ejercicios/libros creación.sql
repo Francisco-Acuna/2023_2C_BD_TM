@@ -42,6 +42,7 @@ insert into socios values('25333444','Ana Herrero','Sucre 120');
 insert into socios values('23252568','Juan Garcia','Colon 125');
 
 insert into libros values(1,'Manual de 2º grado','Molina Manuel');
+insert into libros values(2,'El enigmático número 27', 'Acuña Franciso');
 insert into libros values(25,'Aprenda PHP','Oscar Mendez');
 insert into libros values(42,'Martin Fierro','Jose Hernandez');
 insert into libros values(44,'Aprenda java','Mario Dominguez');
